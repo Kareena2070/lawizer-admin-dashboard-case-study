@@ -563,7 +563,6 @@ My production contribution covered multiple parts of the frontend:
 | Documents           | Document API integration and UI states            |
 | Chat                | Cursor pagination and scroll anchoring            |
 | Notifications       | Inbox/Outbox and notification composition         |
-| Transactions        | API integration and responsive redesign           |
 | Responsive UI       | Reusable responsive components and mobile layouts |
 
 ---
@@ -617,12 +616,7 @@ lawizer-admin-dashboard-case-study/
 │   ├── notifications.png
 │   ├── calls-alerts.png
 │   └── mobile-service-workflow.png
-│
-└── docs/
-    ├── architecture.md
-    ├── service-supervision.md
-    ├── chat-pagination.md
-    └── responsive-design.md
+
 ```
 
 ---
